@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.body{
+    background: #53e7e7;
+    
+}
+.land{
+    width:100%;
+    position: relative;
+}    
+.mydiv{
+    position: relative;
+}
+.port{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height:100px;
+}
+.center{
+    position: absolute;
+    top:60%;
+    left:20%;
+    font-size: 50px;
+}
+.profile{
+    height:300px;
+    border: solid #003345;
+    border-radius: 100%;
+}
+.about{
+    text-align: center;
+    font-size: medium;
+    
+}
+.abouthead{
+    font-size: 100px;
+    border: 20px;
+    border-color: gray;
+    border-style: groove;
+}
+
+.house{
+    height: 200px;
+}
+.tool{
+    height: 200px;
+}
+.left{
+    float: left;
+    width: 33%;
+    border: 1px solid;
+  box-shadow: 5px 10px #888888;
+  color: black;
+}
+.middle{
+    float: left;
+    width:33%;
+    border: 1px solid;
+  box-shadow: 5px 10px #888888;
+  color: black;
+}
+.right{
+    float: right;
+    width:33%;
+    border: 1px solid;
+  box-shadow: 5px 10px #888888;
+  color: black;
+}
+.right:hover{
+    opacity:0.3;
+}
+.middle:hover{
+    opacity:0.3;
+}
+.left:hover{
+    opacity:0.3;
+}
+.social{
+    text-align: center;
+    font-family: 'Lobster';
+    font-size: 50px;
+}
+.one{
+    float: left;
+    width:33%; 
+    
+}
+.two{
+    float: left;
+    width:33%;
+}
+.three{
+    float: left;
+    width:33%;
+}
+.ig{
+    height: 100px;
+    border-radius: 100%;
+}
+.what{
+    height: 100px;
+    border-radius: 100%;
+}
+.twitter{
+    height: 100px;
+    border-radius: 100%;
+}
+.hire{
+    font-family: 'Lobster';
+    font-size: 25px;
+    text-align: center;
+}
